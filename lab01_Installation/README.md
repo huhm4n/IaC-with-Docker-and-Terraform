@@ -11,10 +11,10 @@
 - Unzip and move binary to bin dir
 
 ```markdown
-- terraform
-  - bin
+- __terraform__
+  - __bin__
     - [terraform.exe](bin/terraform.exe)
-  - apache
+  - __apache__
     - [main.tf](apache/main.tf)
 ```
 
