@@ -1,25 +1,38 @@
-[![Per Scholas](per_scholas.png)](https://www.perscholas.org) 
+[![Per Scholas](../per_scholas.png)](https://www.perscholas.org) 
 
-# lab_linux
+# Theory
 
-# Modules
-- [Before you Start](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_01Before_you_Start) 
-- [Directory Structure](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_02Directory_Structure)
-- [Files](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_03Files)
-- [Basic_Shell](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_04Basic_Shell)
-- [Help](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_05Help)
-- [Variables](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_06Variables)
-- [User Management](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_07User_Management)
-- [File Management](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_08File_Management)
-- [Package Management](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_09Package_Management)
-- [Service Management](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_10Service_Management)
-- [Data Management](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_11Data_Management)
-- [Networking](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_13Networking)
-- [Shortcuts](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_14Shortcuts)
-- [Shell Scripts](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_15Shell_Script)
+## Infrastructure as Code
+
+### Infrastructure
+ 
+- Infrastructure is physical and virtual resources that is required to run an IT entity.
+- Usually resources are individually configured using physical hardware configuration or any interactive configuration tools 
+
+### Infrastructure as Code 
+
+- So, the process of deploying, managing or deprovisioning these resources via machine-readable definition files is called IaC (Infrastructure as Code)
+- Advantages of IaC are speed, cost and risk.
+
+
+## Docker
+
+### Container
+
+### Docker as Container Engine
+
+## Terraform
+
+### As IaC Tool
+
+- Terraform is IaC software tool that uses declarative language called HCL (HashiCorp Configuration language) or optionally JSON
+- It uses providers to manage external resources like infrastructure, platform and software.
+
+### Features
+
+- Basically, it perform CRUD on user’s behalf using push method.
+- Terraform supports almost all cloud infrastructure technologies like AWS, Azure, Google Cloud to name the few
+
 
 ## Author
-NepLab
-
-## Visit us
-[NepLab Page](https://www.neplab.com)
+Manish Ojha
