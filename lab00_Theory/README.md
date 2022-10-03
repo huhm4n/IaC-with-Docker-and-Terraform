@@ -1,4 +1,4 @@
-[![Per Scholas](per_scholas.png)](https://www.perscholas.org) 
+[![NepLab](neplab.png)](https://www.neplab.com) 
 
 # lab_linux
 
