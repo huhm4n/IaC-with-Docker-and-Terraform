@@ -3,10 +3,10 @@
 # Presentation Notes
 
 # Modules
-- [Theory](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_01Before_you_Start) 
-- [Installation](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_02Directory_Structure)
-- [Apache_in_AWS](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_03Files)
-- [Edit_HTML_Page](https://github.com/neplab/devops-class-2022/tree/main/Week_01_Linux_Essentials/lab_04Basic_Shell)
+- [Theory](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab00_Theory) 
+- [Installation](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab01_Installation)
+- [Apache_in_AWS](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab02_apache_in_aws)
+- [Edit_HTML_Page](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab03_edit_html_page)
 
 ## Author
 Manish Ojha
