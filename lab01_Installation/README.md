@@ -10,6 +10,14 @@
 - Create terraform dir and create bin dir within your workspace
 - Unzip and move binary to bin dir
 
+```markdown
+- terraform
+  - bin
+    - [terraform.exe](bin/terraform.exe)
+  - apache
+    - [main.tf](apache/main.tf)
+```
+
 ### Setting Variable
 
 - Open Environment Variables from Advanced System Settings
