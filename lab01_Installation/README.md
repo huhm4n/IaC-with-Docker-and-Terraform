@@ -17,8 +17,6 @@
 
 - Unzip and move binary to bin dir
 
-![folder_structure](images/folder_structure.png)
-
 ### Setting Variable
 
 - Open Environment Variables from Advanced System Settings
