@@ -19,19 +19,29 @@
 
 ### Container
 
-### Docker as Container Engine
+- Container is lightweighted discrete OS within OS; lightweighted in sense that it only requires as much "OS" as an application requires 
+- Containerization is the ability to create scalable destroyable env for number of application(s)   
+
+### Docker as Container Host
+
+- Docker is a Containerization tool that works as a host. 
+- Its a platfrom as a service tool that uses OS level virtualization to ship application in containers 
+
+![env_var_new](images/docker_arch.png)
 
 ## Terraform
 
 ### As IaC Tool
 
-- Terraform is IaC software tool that uses declarative language called HCL (HashiCorp Configuration language) or optionally JSON
+- Terraform is IaC software tool that uses declarative language called HCL (HashiCorp Configuration language) or optionally JSON that enables user to 
+safely and 
+- 
+
+### Providers
+
 - It uses providers to manage external resources like infrastructure, platform and software.
-
-### Features
-
-- Basically, it perform CRUD on user’s behalf using push method.
 - Terraform supports almost all cloud infrastructure technologies like AWS, Azure, Google Cloud to name the few
+
 
 
 ## Author
