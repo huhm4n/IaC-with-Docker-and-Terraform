@@ -9,6 +9,7 @@
 - Download Links for terraform
 
 [Download For Windows] (https://releases.hashicorp.com/terraform/1.3.1/terraform_1.3.1_windows_amd64.zip)
+
 [Download For Mac] (https://releases.hashicorp.com/terraform/1.3.1/terraform_1.3.1_darwin_arm64.zip)
 
 - Create terraform dir and create bin dir within your workspace
