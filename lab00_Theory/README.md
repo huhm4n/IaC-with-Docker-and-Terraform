@@ -27,22 +27,26 @@
 - Docker is a Containerization tool that works as a host. 
 - Its a platfrom as a service tool that uses OS level virtualization to ship application in containers 
 
+### Docker Architecture
+
 ![env_var_new](images/docker_arch.png)
 
 ## Terraform
 
 ### As IaC Tool
 
-- Terraform is IaC software tool that uses declarative language called HCL (HashiCorp Configuration language) or optionally JSON that enables user to 
+- Terraform is IaC software tool that enables users to create and manage mostly cloud infrastructure using declarative codes 
+- It uses declarative language called HCL (HashiCorp Configuration language) or optionally JSON that enables user to 
 safely and 
-- 
 
 ### Providers
 
 - It uses providers to manage external resources like infrastructure, platform and software.
 - Terraform supports almost all cloud infrastructure technologies like AWS, Azure, Google Cloud to name the few
 
+### Terraform Architecture
 
+![env_var_new](images/terraform_arch.png)
 
 ## Author
 Manish Ojha
