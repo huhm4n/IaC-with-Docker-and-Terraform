@@ -31,6 +31,18 @@
 
 ![env_var_new](images/docker_arch.png)
 
+*Client* <br>
+Primary way docker users interact with Docker
+
+*Docker_Host*
+Server where we install docker
+
+*Images*
+template to build docker container
+
+*Registry*
+stateless and scalable server side application that stores and lets you distribute docker images
+
 ## Terraform
 
 ### As IaC Tool
