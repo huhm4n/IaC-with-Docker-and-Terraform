@@ -41,11 +41,15 @@ internal = 80
 
 ## terraform init
 
+**Initializes working direcory containing terraform configuration files**
+
 ```
 terraform init
 ```
 
 ## terraform format 
+
+**Rewrites terraform config fiels to a canonical format and style**
 
 ```
 terraform fmt main.tf
@@ -53,17 +57,22 @@ terraform fmt main.tf
 
 ## terraform plan 
 
+**Creates an execution plan and let us preview the changes**
+
 ```
 terraform plan main.tf
 ```
 
 ## terraform apply
 
+**Terraform apply commands executes the action propsed in terraform plan to create, update or detroy infrastructure**
 ```
 terraform apply main.tf
 ```
 
 ## terraform state
+
+**local file to save terraform state by default**
 
 ```
 cat terraform.tfstate
