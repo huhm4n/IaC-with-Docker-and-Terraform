@@ -38,5 +38,9 @@
 
 ![check_version](images/check_version.png)
 
+### Next
+
+[Apache_in_Containers](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab02_Apache_in_Containers)
+
 ## Author
 Manish Ojha

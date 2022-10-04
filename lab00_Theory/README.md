@@ -68,5 +68,9 @@ complete set of instructions that tells terraform how to manage a given catalog 
 stores information about your infrastructure by keeping track of resources created by your configuration and maps them to real-world 
 resources
 
+### Next
+
+[Installation](https://github.com/huhm4n/IaC-with-Docker-and-Terraform/tree/main/lab01_Installation)
+
 ## Author
 Manish Ojha
