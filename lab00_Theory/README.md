@@ -34,13 +34,13 @@
 *Client* <br>
 Primary way docker users interact with Docker
 
-*Docker_Host*
+*Docker_Host* <br>
 Server where we install docker
 
-*Images*
+*Images* <br>
 template to build docker container
 
-*Registry*
+*Registry* <br>
 stateless and scalable server side application that stores and lets you distribute docker images
 
 ## Terraform
@@ -59,6 +59,14 @@ safely and
 ### Terraform Architecture
 
 ![env_var_new](images/terraform_arch.png)
+
+
+*Terraform Configuration Files* <br>
+complete set of instructions that tells terraform how to manage a given catalog of infrastructure
+
+*Terraform State* <br>
+stores information about your infrastructure by keeping track of resources created by your configuration and maps them to real-world 
+resources
 
 ## Author
 Manish Ojha
