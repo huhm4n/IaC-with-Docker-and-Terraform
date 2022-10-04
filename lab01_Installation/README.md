@@ -14,12 +14,6 @@
 - Create terraform dir and create bin dir within your workspace
 - Unzip and move binary to bin dir
 
-```markdown
-- __terraform__
-  - __bin__
-    - [terraform.exe](bin/terraform.exe)
-```
-
 ![folder_structure](images/folder_structure.png)
 
 ### Setting Variable
