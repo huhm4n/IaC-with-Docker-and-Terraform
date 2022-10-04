@@ -39,5 +39,35 @@ internal = 80
 
 ```
 
+## terraform init
+
+```
+terraform init
+```
+
+## terraform format 
+
+```
+terraform fmt main.tf
+```
+
+## terraform plan 
+
+```
+terraform plan main.tf
+```
+
+## terraform apply
+
+```
+terraform apply main.tf
+```
+
+## terraform state
+
+```
+cat terraform.tfstate
+```
+
 ## Author
 Manish Ojha
