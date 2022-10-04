@@ -19,7 +19,7 @@
 ### Setting Variable
 
 - Open Environment Variables from Advanced System Settings
-![env_var](C:\Users\ojman\OneDrive\Documents\per scholas\Github\IaC-with-Docker-and-Terraform\lab01_Installation\images\env_var.png)
+![env_var](images/env_var.png)
 - Set the location where we’ve created terraform folder as TERRAFORM_HOME
 - Edit Path with “$TERRAFORM_HOME/bin"
 
