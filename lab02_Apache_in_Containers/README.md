@@ -2,6 +2,12 @@
 
 # Apache in Container
 
+
+## My architecture
+
+![my_arch](images/my_arch.png)
+
+
 ## main.tf 
 
 ```
