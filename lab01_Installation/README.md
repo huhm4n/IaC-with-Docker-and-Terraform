@@ -23,10 +23,18 @@
 ![env_var](images/env_var.png)
 
 - Set the location where we’ve created terraform folder as TERRAFORM_HOME
+
 ![env_var_new](images/env_var_new.png)
+
 ![set_home](images/set_home.png)
 
 - Edit Path with “$TERRAFORM_HOME/bin"
+
+![env_var_new](images/edit_path_move.png)
+
+- Check version on cmd
+
+![check_version](images/check_version.png)
 
 ## Author
 Manish Ojha
