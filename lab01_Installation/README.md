@@ -24,6 +24,7 @@
 
 - Set the location where we’ve created terraform folder as TERRAFORM_HOME
 
+
 ![env_var_new](images/env_var_new.png)
 
 ![set_home](images/set_home.png)
